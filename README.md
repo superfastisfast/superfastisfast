@@ -1,5 +1,2 @@
-**im superfastisfast!** 
-
-aka a pre-school dev, *litteraly*..
-
-yea' im just 10 but.. my hobby is coding!
+Hello there, I have a great passion for coding, though.
+Hopefully i'll use my github account for something good, or a project, which works.
