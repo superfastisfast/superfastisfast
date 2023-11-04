@@ -1,2 +1,2 @@
-American = Eat Meat And Cheese^2
-A=EMC^2
+# American = Eat Meat And Cheese^2
+# A=EMC^2
