@@ -1,2 +1,1 @@
-# American = Eat Meat And Cheese^2
-# A=EMC^2
+What do you mean, what do you mean?
